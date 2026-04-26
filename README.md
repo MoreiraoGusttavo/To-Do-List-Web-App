@@ -294,3 +294,4 @@ Campo `feita`:
 ## Licença
 
 Projeto livre para uso e modificação.
+Desenvolvido por Gusttavo Sacco Moreirão
